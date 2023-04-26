@@ -1,4 +1,5 @@
 # Places Around Me
+
 ## AIM:
 To develop a website to display details about the places around my house.
 
@@ -19,11 +20,10 @@ Next start the server from the projects main directory using python3 manage.py r
 ```
 NAME: Bharath K
 Reg.no: 212222110006
-
+```
 ## Bus.html:
 
-```
-
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -57,7 +57,7 @@ Keelapazhur to preserve and conserve fossils. Ariyalur is noted for its cement
 </html>
 ```
 ## GHS.html:
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -86,7 +86,7 @@ The main objectives of Ariyalur Government Higher Secondary School are
 </html>
 ```
 ## Map.html
-```
+``` html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -114,7 +114,7 @@ The main objectives of Ariyalur Government Higher Secondary School are
 ```
 
 ## Park.html:
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -143,7 +143,7 @@ Simple and relax with play area.
 </html>
 ```
 ## rto.html:
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -171,7 +171,7 @@ RTOs are also responsible for improving road and vehicle safety, especially to a
 ```
 
 ## Vk.html:
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -202,13 +202,29 @@ The uses of Washerman's Lake in Ariyalur District are
 ## Output:
 
 
-## Client Output:
+## ClIENT OUTPUT:
 
 ## Map:
 ![WhatsApp Image 2023-04-25 at 19 31 36](https://user-images.githubusercontent.com/122793480/234456548-a455a4fa-9c5c-4818-8d99-785a051a077a.jpg)
 
-## 
+## Bus Stand:
 ![WhatsApp Image 2023-04-25 at 19 32 10](https://user-images.githubusercontent.com/122793480/234459631-cabfae4e-4559-45a9-bce4-6ee6778bccf9.jpg)
 
+## GHS:
+![WhatsApp Image 2023-04-25 at 19 32 11](https://user-images.githubusercontent.com/122793480/234460670-0b6d6dc7-574a-44da-a595-c0edfe08ad24.jpg)
+
+## Park:
+![WhatsApp Image 2023-04-25 at 19 32 12](https://user-images.githubusercontent.com/122793480/234460722-468990ea-b91a-4018-8784-edf4caa10720.jpg)
+
+## RTO:
+![WhatsApp Image 2023-04-25 at 19 32 17](https://user-images.githubusercontent.com/122793480/234460801-3db06f9a-d52a-4b89-8165-afa5c27c7d99.jpg)
+
+## Washerman's lake:
+![WhatsApp Image 2023-04-25 at 19 31 50](https://user-images.githubusercontent.com/122793480/234460895-840e457f-f6cd-44e9-9f57-6a76d2c9cd4d.jpg)
+
+## SERVER OUTPUT:
+![WhatsApp Image 2023-04-25 at 19 33 24](https://user-images.githubusercontent.com/122793480/234461163-2526ff80-5e3c-4110-8a82-3cad9248199a.jpg)
+
+
 ## Result:
-Write your result
+Hence a website has been developed to display details about the places around Ariyalur District
